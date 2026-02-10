@@ -22,4 +22,4 @@ Source: Sample ecommerce dataset
 3. Explore insights using slicers.
 
 ## 👩‍💻 Author
-Simran Choubey
+Kshama Chaturvedi
